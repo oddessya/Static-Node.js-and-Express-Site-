@@ -1,0 +1,66 @@
+{
+    "projects": [
+      {
+        "id": "1",
+        "project_name": "Techdegree Unit1 Project",
+        "description": "For this project, we had to find several quotes, list them in an object array, display them on the page and get the change quote button functional.",
+        "technologies": ["JavaScript"],
+        "live_link": "https://github.com/oddessya/techdegree-unit1-project.git",
+        "github_link": "https://github.com/oddessya/techdegree-unit1-project.git",
+        "image_urls": [
+          "/static/img/unit1_img1.jpeg",
+          "/static/img/unit1_img2.jpg"
+        ]
+      },
+      {
+        "id": "2",
+        "project_name": "Data Pagination and Filtering",
+        "description": "For this project, we had to turn an object array into a fully functional page with a search filter.",
+        "technologies": ["JavaScript"],
+        "live_link": "https://github.com/oddessya/data-pagination-and-filtering.git",
+        "github_link": "https://github.com/oddessya/data-pagination-and-filtering",
+        "image_urls": [
+          "/static/img/unit2_filteringMedium.jpeg",
+          "/static/img/unit2_landingpage.jpeg"
+        ]
+      },
+      {
+        "id": "3",
+        "project_name": "Interactive Form",
+        "description": "For this project, we had to add JavaScript to create functionality and interactivity with the HTML form.",
+        "technologies": ["JavaScript"],
+        "live_link": "https://github.com/oddessya/Interactive-Form_OddessyAllen",
+        "github_link": "https://github.com/oddessya/Interactive-Form_OddessyAllen.git",
+        "image_urls": [
+          "/static/img/unit3_landingpage Medium.jpeg",
+          "/static/img/unit3_errormessage Medium.jpeg"
+        ]
+      },
+      {
+        "id": "4",
+        "project_name": "OOP Game Show",
+        "description": "For this project, I created a browser-based, word guessing game: Phrase Hunter.",
+        "technologies": ["JavaScript"],
+        "live_link": "https://github.com/oddessya/OOP-Game-Show_OddessyAllen",
+        "github_link": "https://github.com/oddessya/OOP-Game-Show_OddessyAllen.git",
+        "image_urls": [
+          "/static/img/unit4_game Medium.jpeg",
+          "/static/img/unit4_landing page Medium.jpeg",
+          "/static/img/unit4_lostlives Medium.jpeg"
+        ]
+      },
+      {
+        "id": "5",
+        "project_name": "Public API Requests",
+        "description": "For this project, I created a directory which used an API to fetch the data from.",
+        "technologies": ["JavaScript"],
+        "live_link": "https://github.com/oddessya/Public-API-Requests_OddessyAllen",
+        "github_link": "https://github.com/oddessya/Public-API-Requests_OddessyAllen.git",
+        "image_urls": [
+          "/static/img/unit5_image1.png",
+          "/static/img/unit5_image2.png",
+          "/static/img/unit5_image3.png"
+        ]
+      }
+    ]
+  }
